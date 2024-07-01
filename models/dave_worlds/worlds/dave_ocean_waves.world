@@ -106,7 +106,7 @@
       filename="gz-sim-buoyancy-system"
       name="gz::sim::systems::Buoyancy">
       <graded_buoyancy>
-        <default_density>1000</default_density>
+        <default_density>1025</default_density>
         <density_change>
           <above_depth>0</above_depth>
           <density>1</density>
